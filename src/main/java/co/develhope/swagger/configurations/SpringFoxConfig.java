@@ -23,7 +23,7 @@ public class SpringFoxConfig {
                 "An example for showing how to document an API",
                 "1.0.0",
                 "https://en.wikipedia.org/wiki/MIT_License",
-                new Contact("John", "https://develhope.co", "john.doe@develhope.co"),
+                new Contact("Antonio", "https://develhope.co", "fasanella.antonio.sanfele@gmail.com"),
                 "MIT",
                 "https://en.wikipedia.org/wiki/MIT_License",
                 Collections.emptyList()
